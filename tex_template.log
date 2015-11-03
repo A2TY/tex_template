@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2015.5.9)  2 NOV 2015 00:04
+This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2015.5.9)  3 NOV 2015 23:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -498,22 +498,22 @@ LaTeX Warning: Unused global option(s):
 (./tex_template.aux)
 \openout1 = `tex_template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -551,32 +551,32 @@ LaTeX Font Info:    ... okay on input line 99.
 
 \c@lstlisting=\count159
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 101.
+(Font)              scaled to size 16.60605pt on input line 103.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 101.
+(Font)              scaled to size 16.60605pt on input line 103.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 101.
+(Font)              scaled to size 11.53198pt on input line 103.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 101.
+(Font)              scaled to size 11.53198pt on input line 103.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 101.
+(Font)              scaled to size 5.76599pt on input line 103.
 [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 106.
+(Font)              scaled to size 13.83836pt on input line 108.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 106.
+(Font)              scaled to size 13.83836pt on input line 108.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 106.
+(Font)              scaled to size 13.83836pt on input line 108.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 106.
+(Font)              scaled to size 13.83836pt on input line 108.
  [2] (./tex_template.aux) ) 
 Here is how much of TeX's memory you used:
- 12072 strings out of 493807
- 205205 string characters out of 6151952
- 356806 words of memory out of 5000000
- 15372 multiletter control sequences out of 15000+600000
+ 12073 strings out of 493807
+ 205211 string characters out of 6151952
+ 356809 words of memory out of 5000000
+ 15373 multiletter control sequences out of 15000+600000
  13707 words of font info for 60 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  44i,6n,72p,592b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
