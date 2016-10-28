@@ -1,4 +1,5 @@
 \documentclass[a4]{jsarticle}%ページ設定
+\usepackage[jis2004]{otf}%フォント
 \usepackage[top=20mm,bottom=20mm,left=20mm,right=20mm]{geometry}%余白
 \usepackage{graphicx}%画像の挿入
 \usepackage{verbatim}%入力通りに出力
@@ -10,15 +11,14 @@
 \usepackage{listings,jlisting}%ソースコード
 \usepackage{comment}%コメント
 
-
-%シンタックスハイライト設定%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%シンタックスハイライト設定
 \definecolor{OliveGreen}{cmyk}{0.64,0,0.95,0.40}
 \definecolor{colFunc}{rgb}{1,0.07,0.54}
 \definecolor{CadetBlue}{cmyk}{0.62,0.57,0.23,0}
 \definecolor{Brown}{cmyk}{0,0.81,1,0.60}
 \definecolor{colID}{rgb}{0.63,0.44,0}
 \lstset{
-    %language=c,%言語の指定（全て同じ開発言語ならここで設定）
+    language=c,%言語の指定
     basicstyle={\ttfamily\scriptsize},
     keywordstyle={\color{OliveGreen}},
     %[2][3]はプログラミング言語よってない場合もある
@@ -36,18 +36,14 @@
     backgroundcolor={\color[gray]{.95}},
     captionpos=b
 }
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-%相互参照設定%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%相互参照設定
 \newcommand{\figref}[1]{図\nobreak \ref{#1}}
 \newcommand{\tabref}[1]{表\nobreak \ref{#1}}
 \newcommand{\srcref}[1]{ソースコード\nobreak \ref{#1}}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-%よく使う書式%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}%画像の挿入方法
+\begin{comment}%よく使う書式
+%画像の挿入方法
 \begin{figure}[h]
 \centering
 \includegraphics[width=14cm,bb=0 0 x y]{画像名}\\
@@ -87,9 +83,10 @@
 
 
 %ソースコード
-\lstinputlisting[caption=題名, label=タグ, language=開発言語]{ファイル名}
+\lstinputlisting[caption=題名,label=タグ,firstnumber=開始行番号]{ファイル名}
+
 \end{comment}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 
