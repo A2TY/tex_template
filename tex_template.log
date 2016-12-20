@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.10)  28 OCT 2016 19:22
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.10)  21 DEC 2016 01:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -532,26 +532,26 @@ LaTeX Warning: Unused global option(s):
 (./tex_template.aux)
 \openout1 = `tex_template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 103.
+(Font)              scaled to size 9.24683pt on input line 104.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 103.
+(Font)              scaled to size 9.24683pt on input line 104.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -589,34 +589,34 @@ LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 
 \c@lstlisting=\count163
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 105.
+(Font)              scaled to size 15.9785pt on input line 106.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 15.9785pt on input line 105.
+(Font)              scaled to size 15.9785pt on input line 106.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 105.
+(Font)              scaled to size 11.09619pt on input line 106.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 105.
+(Font)              scaled to size 11.09619pt on input line 106.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 7.39746pt on input line 105.
+(Font)              scaled to size 7.39746pt on input line 106.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 5.5481pt on input line 105.
+(Font)              scaled to size 5.5481pt on input line 106.
 [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 110.
+(Font)              scaled to size 13.31541pt on input line 111.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 110.
+(Font)              scaled to size 13.31541pt on input line 111.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 110.
+(Font)              scaled to size 13.31541pt on input line 111.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 110.
+(Font)              scaled to size 13.31541pt on input line 111.
  [2] (./tex_template.aux) ) 
 Here is how much of TeX's memory you used:
- 13931 strings out of 493683
- 229600 string characters out of 6149658
- 385855 words of memory out of 5000000
- 17310 multiletter control sequences out of 15000+600000
+ 13932 strings out of 493683
+ 229609 string characters out of 6149658
+ 385868 words of memory out of 5000000
+ 17311 multiletter control sequences out of 15000+600000
  13695 words of font info for 63 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  44i,6n,72p,675b,991s stack positions out of 5000i,500n,10000p,200000b,80000s
